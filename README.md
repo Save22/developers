@@ -7,6 +7,8 @@ Save22's EdgePI development blog
 
 Have your account registered as contributor to this repo or fork it.
 
+Clone the repo and install everything in `requirements.pip` inside a virtualenv.
+
 ## Writing new content
 
 Create a file in this format under the `content` directory:
