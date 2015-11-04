@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'edgepi'
-SITENAME = 'Edge Price Intelligence Developers'
+SITENAME = 'Edge Price Intelligence Developement Blog'
 TAGLINE = 'Development blog'
 #USER_LOGO_URL = ''
 SITEURL = 'http://developers.edgepi.com'
